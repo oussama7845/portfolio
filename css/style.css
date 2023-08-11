@@ -596,7 +596,7 @@ h6 {
 }
 
 .aali_tm_hero .content .name {
-    font-size: 150px;
+    font-size: 110px;
     font-weight: 700;
     color: #962243;
     letter-spacing: -0.2px;
@@ -861,13 +861,14 @@ h6 {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    right: -70px;
+    right: -200px;
     z-index: -2;
     margin-top: -70px;
+
 }
 
 .aali_tm_hero .stroke_text span {
-    font-size: 220px;
+    font-size: 180px;
     color: transparent;
     -webkit-text-stroke: 3px rgba(255, 255, 255, 0.3);
     text-stroke: 3px rgba(255, 255, 255, 0.3);
